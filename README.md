@@ -1,5 +1,3 @@
-Selfbot + Protect Py3 WORKS Need update
-VIA VPS (Virtual Private Server)
 sudo apt-get install git
 git clone https://github.com/23arman89/GK
 sudo apt-get python3-pip
