@@ -85,3 +85,7 @@ VIA TERMUX (Terminal Linux)
 19.cd 23arman89
 
 20.python3 gk.py
+_________________
+
+add: line.me/ti/p/YrBvjuZ4kQ
+=
