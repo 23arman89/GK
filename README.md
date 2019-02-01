@@ -1,86 +1,88 @@
-Via VPS (Server)
-=======
+================
+~Via VPS (Server)~
+================
 
-$sudo apt-get install git
+1.sudo apt-get install git
 
-$git clone https://github.com/23arman89/GK
+2.git clone https://github.com/23arman89/gk
 
-$sudo apt-get python3-pip
+3.sudo apt-get python3-pip
 
-sude pip3 install rsa
+4.sude pip3 install rsa
 
-sudo pip3 install requests
+5.sudo pip3 install requests
 
-sudo pip3 install googletrans
+6.sudo pip3 install googletrans
 
-sudo pip3 install bs4
+7.sudo pip3 install bs4
 
-sudo pip3 install requests 
+8.sudo pip3 install requests 
 
-sudo pip3 install rsa
+9.sudo pip3 install rsa
 
-sudo pip3 install thrift
+10.sudo pip3 install thrift
 
-sudo pip3 install bs4
+11.sudo pip3 install bs4
 
-sudo pip3 install pytz 
+12.sudo pip3 install pytz 
 
-sudo pip3 install humanfriendly 
+13.sudo pip3 install humanfriendly 
 
-sudo pip3 install gtts
+14.sudo pip3 install gtts
 
-sudo pip3 install googletrans
+15.sudo pip3 install googletrans
 
-sudo pip3 install wikipedia
+16.sudo pip3 install wikipedia
 
-sudo pip3 install youtube_dl
+17.sudo pip3 install youtube_dl
 
-sudo pip3 install ffmpy
+18.sudo pip3 install ffmpy
 
-cd 23arman89
+19.cd 23arman89
 
-python3 GK.py
+20.python3 gk.py
 
-
-VIA TERMUX (Terminal Linux)
 ===========================
 
-pkg install git
+~VIA TERMUX (Terminal Linux)~
+===========================
 
-git clone https://github.com/23arman89/GK
+1.pkg install git
 
-pkg install python3-pip
+2.git clone https://github.com/23arman89/gk
 
-pip3 install rsa
+3.pkg install python3-pip
 
-pip3 install requests
+4.pip3 install rsa
 
-pip3 install googletrans
+5.pip3 install requests
 
-pip3 install bs4
+6.pip3 install googletrans
 
-pip3 install requests 
+7.pip3 install bs4
 
-pip3 install rsa
+8.pip3 install requests 
 
-pip3 install thrift
+9.pip3 install rsa
 
-pip3 install bs4
+10.pip3 install thrift
 
-pip3 install pytz
+11.pip3 install bs4
 
-pip3 install humanfriendly
+12.pip3 install pytz
 
-pip3 install gtts
+13.pip3 install humanfriendly
 
-pip3 install googletrans
+14.pip3 install gtts
 
-pip3 install wikipedia
+15.pip3 install googletrans
 
-pip3 install youtube_dl
+16.pip3 install wikipedia
 
-pip3 install ffmpy
+17.pip3 install youtube_dl
 
-cd 23arman89
+18.pip3 install ffmpy
 
-python3 gk.py
+19.cd 23arman89
+
+20.python3 gk.py
