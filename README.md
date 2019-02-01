@@ -1,16 +1,27 @@
+Via VPS
 sudo apt-get install git
+
 git clone https://github.com/23arman89/GK
+
 sudo apt-get python3-pip
+
 sude pip3 install rsa
+
 sudo pip3 install requests
+
 sudo pip3 install googletrans
+
 sudo pip3 install bs4
+
 sudo pip3 install requests 
+
 sudo pip3 install rsa
+
 sudo pip3 install thrift
-sudo pip3 install bs4
-sudo pip3 install pytz
-sudo pip3 install humanfriendly
+
+sudo pip3 install bs4 
+sudo pip3 install pytz 
+sudo pip3 install humanfriendly 
 sudo pip3 install gtts
 sudo pip3 install googletrans
 sudo pip3 install wikipedia
