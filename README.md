@@ -1,4 +1,4 @@
-~Via VPS (Server)~
+Via VPS (Server)
 ================
 
 1.sudo apt-get install git
@@ -43,7 +43,7 @@
 
 
 
-~VIA TERMUX (Terminal Linux)~
+VIA TERMUX (Terminal Linux)
 ===========================
 
 1.pkg install git
