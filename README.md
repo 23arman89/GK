@@ -7,7 +7,7 @@ Via VPS (Server)
 
 3.sudo apt-get python3-pip
 
-4.sude pip3 install rsa
+4.sudo pip3 install rsa
 
 5.sudo pip3 install requests
 
